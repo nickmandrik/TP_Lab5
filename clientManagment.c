@@ -2,7 +2,7 @@
 //  clientManagment.c
 //  BankSystem
 //
-//  Created by Admin on 01.04.16.
+//  Created by Admin on 30.03.16.
 //  Copyright © 2016 Admin. All rights reserved.
 //
 #include <stdio.h>
