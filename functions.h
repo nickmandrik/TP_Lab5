@@ -15,6 +15,7 @@
 int userAuthorization(sqlite3 *, char*, char*);
 void clientManagment(char*, sqlite3 *, char*, char*);
 void administratorManagment(sqlite3 *, char*, char*);
+void supportManagment(sqlite3*, char*, char*);
 char* getLogin(void);
 #endif
 
